@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
+ollama
+langchain
+faiss-cpu
+PyPDF2
+textblob
